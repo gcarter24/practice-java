@@ -27,3 +27,13 @@ public class StringDemo {
 
   }
 }
+
+/*
+ * 
+ * char charAt(int index) - Returns the character at the specified index. int
+ * compareTo(Object o) - Compares this String to another Object. String
+ * concat(String str) - Concatenates the specified string to the end of this
+ * string. boolean equals(Object anObject) - Compares this string to the
+ * specified object. boolean equalsIgnoreCase(String anotherString) - Compares
+ * this String to another String, ignoring case considerations.
+ */
