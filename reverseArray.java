@@ -1,4 +1,4 @@
-// Reverse array using a new array and printing each element out on new line 
+//  Reverse array using a new array and printing each element out on new line 
 
 // Take input the size of the array and the elements of the array.
 // Consider a function reverse which takes the parameters-the array(say arr)and the size of the array(say n).
